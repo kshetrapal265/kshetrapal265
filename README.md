@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @kshetrapal265
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in MERN STACK DEVELOPMENT ! 
+- 🌱 I’m currently Working As A MERN STACK DEVELOPER ! 
+- 💞️ I’m looking to collaborate on WEB DEVELOPMENT 
+- 📫 How to reach me >> <br>
+   Email-kshetrapalsingh265@gmail.com <br>
+   LinkedIn-linkedin.com/in/kshetrapal-singh-591901180 
 
 
 <!---
